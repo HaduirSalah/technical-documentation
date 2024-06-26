@@ -7,7 +7,7 @@
 }
 
 ::-webkit-scrollbar-track:hover {
-    background: #D1D1DD;
+    background: #d1d1dd;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -88,12 +88,10 @@ ol {
 }
 
 pre {
-
     width: fit-content;
     background-color: #121212;
     color: #e2e2e2;
-
-        position: relative;
+    position: relative;
     padding: 1.4em;
     border-radius: 5px;
     margin: 1em 0;
@@ -127,9 +125,6 @@ pre {
         overflow-x: auto;
     }
 }
-
-
-
 
 .copy-btn {
     position: absolute;
